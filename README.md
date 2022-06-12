@@ -1,4 +1,4 @@
-3 en raya hecho en React.
+# 3 en raya hecho en React.
 
 ## Objetivo
 
